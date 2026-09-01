@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["V2KD78J28G.com.qs-minions.tennisfantasy"],
+        "components": [
+          {
+            "/": "/invite/*",
+            "comment": "Ballboy league invite links"
+          }
+        ]
+      }
+    ]
+  }
+}
