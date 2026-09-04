@@ -7,6 +7,10 @@
           {
             "/": "/invite/*",
             "comment": "Ballboy league invite links"
+          },
+          {
+            "/": "/r/*",
+            "comment": "Ballboy referral links"
           }
         ]
       }
